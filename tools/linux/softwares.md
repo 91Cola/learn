@@ -12,7 +12,7 @@
 3. develop tools
 
 * [visual studio code](https://code.visualstudio.com/)
-* oh-my-zsh
+* oh-my-zsh (Bullet train)
 
 4. 虚拟机
 
