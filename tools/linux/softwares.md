@@ -17,6 +17,7 @@
 * node
 * [visual studio code](https://code.visualstudio.com/)
 * oh-my-zsh ([spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme))
+  > [zsh 使用](https://zhuanlan.zhihu.com/mactalk/19556676)
 
 4. 虚拟机
 
