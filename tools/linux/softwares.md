@@ -29,9 +29,8 @@
 * apt update indicator
 * bing wallpaper changer
 * dash to dock
-* datetime format
-* ~emoji selector~
 * extension update notifier
 * proxy switcher
 * show ip
-* user themes
+* bitcoin markets
+* change clock format
