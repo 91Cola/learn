@@ -6,8 +6,8 @@
 
 2. 主题管理
 
-* gnome-tweak-theme
-* gnome-shell-extensions
+* ~gnome-tweak-theme~
+* ~gnome-shell-extensions~
 
 3. develop tools
 
