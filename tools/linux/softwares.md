@@ -11,6 +11,8 @@
 
 3. develop tools
 
+* nvm
+* nrm
 * git
 * node
 * [visual studio code](https://code.visualstudio.com/)
