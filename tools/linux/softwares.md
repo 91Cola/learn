@@ -18,7 +18,6 @@
 * [visual studio code](https://code.visualstudio.com/)
 * oh-my-zsh ([spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme))
   > [zsh 使用](https://zhuanlan.zhihu.com/mactalk/19556676)
-  
   > [zsh 使用 来自知乎](https://www.zhihu.com/question/21418449)
 
 4. 虚拟机
