@@ -11,8 +11,10 @@
 
 3. develop tools
 
+* git
+* node
 * [visual studio code](https://code.visualstudio.com/)
-* oh-my-zsh (Bullet train)
+* oh-my-zsh ([spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme))
 
 4. 虚拟机
 
