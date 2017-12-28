@@ -28,7 +28,7 @@
 * bing wallpaper changer
 * dash to dock
 * datetime format
-* --emoji selector--
+* ~emoji selector~
 * extension update notifier
 * proxy switcher
 * show ip
