@@ -11,7 +11,7 @@
 
 3. develop tools
 
-* nvm
+* [nvm](https://github.com/creationix/nvm#install-script)
 * nrm
 * git
 * node
